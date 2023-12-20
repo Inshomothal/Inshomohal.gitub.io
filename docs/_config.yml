@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: My Web Development Journey!!!
-domain: inshomohal.gitub.io
+title: My Web Development Journey
+domain: https://inshomothal.github.io/inshomohal.github.io/
 email: trevonecollins@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  **Welcome to My Web Development Journey!**
+description: |
+  **Welcome to My Web Development Journey.**
 
   ---
 
@@ -54,14 +54,14 @@ description: >- # this means to ignore newlines until "baseurl:"
 
   **Contact Information:**
 
-  Connect with me on LinkedIn: www.linkedin.com/in/trevon-collins-73286649
+  Connect with me on LinkedIn: [www.linkedin.com/in/trevon-collins-73286649](www.linkedin.com/in/trevon-collins-73286649)
   Email: trevonecollins@gmail.com
   GitHub: Inshomothal
   ---
 
   Thank you for visiting my page! I look forward to exciting opportunities and collaborations in the Web3 space.
-baseurl: "inshomothal.github.io/docs" # the subpath of your site, e.g. /blog
-url: "https://inshomothal.github.io/inshomohal.gitub.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "inshomohal.github.io/docs" # the subpath of your site, e.g. /blog
+url: "https://inshomothal.github.io/inshomohal.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: artietrey
 github_username:  Inshomothal
 
