@@ -18,7 +18,7 @@ Hello, I'm Trevon Collins, a passionate and dynamic Web3 Developer with a focus 
 
 **Projects Showcase:**
 
-- **Decentralized Exchange:** Developed a decentralized exchange to monitor token transactions, demonstrating commitment and innovation.
+- **Decentralized Exchange:** Developed a decentralized exchange to monitor token transactions, demonstrating commitment and innovation. You can check it out [here](https://bitter-cherry-6819.on.fleek.co/).
 
 ---
 
