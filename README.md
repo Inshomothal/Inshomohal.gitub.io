@@ -2,29 +2,37 @@
 
 ---
 
-**Introduction:**
-  
-Hello, I'm Trevon Collins, a passionate and dynamic Web3 Developer with a focus on blockchain and decentralized finance (DeFi). Recently completing a comprehensive bootcamp, I've gained skills in creating smart contracts, building decentralized exchanges, and exploring key/value databases.
 
----
+## Project Purpose
 
-**Skills Highlights:**
+The purpose of this project is to create a website that can host any potential clients and employers to showcase my previous work.
 
-- **Smart Contract Development:** Proficient in creating robust and efficient smart contracts.
-- **Decentralized Exchanges:** Successfully built a decentralized exchange, showcasing hands-on experience.
-- **Blockchain Technologies:** Eager to become proficient in Terra Blockchain and Cosmos SDK.
+## Continuous Learning
 
----
+I am constantly evolving and learning new concepts, tools, and techniques to enhance my efficiency in web development.
 
-**Projects Showcase:**
+## Skills Demonstrated
 
-- **Decentralized Exchange:** Developed a decentralized exchange to monitor token transactions, demonstrating commitment and innovation. You can check it out [here](https://bitter-cherry-6819.on.fleek.co/).
+So far, my skills demonstrate my ability to utilize the following technologies:
 
----
+- React
+- JavaScript
+- Solidity
+- HTML
+- CSS
 
-**Aspirations:**
+## Project Highlights
 
-Eager to apply my skills and passion to contribute to innovative projects at Terraform Labs. Excited about the opportunity to learn and become proficient in Terra Blockchain and Cosmos SDK.
+One of my notable projects includes creating an exchange capable of:
+
+- Holding tokens
+- Tracking trades
+- Displaying a chart to visualize patterns over a single period of time.
+
+## Future Growth
+
+As I continue to grow, I will undertake more projects that showcase my prowess and ability to acquire new knowledge.
+
 
 ---
 
