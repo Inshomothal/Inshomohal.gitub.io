@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: My Web Development Journey
-domain: https://inshomothal.github.io/inshomohal.github.io/
+domain: https://inshomothal.github.io/inshomohal.gitub.io/
 email: trevonecollins@gmail.com
 description: |
   **Welcome to My Web Development Journey.**
@@ -61,7 +61,7 @@ description: |
 
   Thank you for visiting my page! I look forward to exciting opportunities and collaborations in the Web3 space.
 baseurl: "inshomohal.github.io/docs" # the subpath of your site, e.g. /blog
-url: "https://inshomothal.github.io/inshomohal.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://inshomothal.github.io/inshomohal.gitub.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: artietrey
 github_username:  Inshomothal
 
